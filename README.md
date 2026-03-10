@@ -20,9 +20,6 @@ I'm a software developer and tech enthusiast based in Bangalore. When I'm not wr
 * **Two Wheels:** Always learning more about motorcycles and planning future tours around India and abroad.
 
 ### 📊 GitHub Stats:
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)](https://github.com/your-username)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)](https://github.com/your-username)
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ayush-3plus4&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ayush-3plus4&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-3plus4&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
